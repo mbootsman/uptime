@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   
   introTitle: "**Upptime** is monitoring toot.re, powered entirely by GitHub."
-  introMessage: Status page for toot.re - Mastodon instance. No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Status page for toot.re - Mastodon instance. [**Built with Upptime **](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
