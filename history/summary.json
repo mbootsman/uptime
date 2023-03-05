@@ -4,7 +4,7 @@
     "url": "https://toot.re",
     "icon": "https://icons.duckduckgo.com/ip3/toot.re.ico",
     "slug": "toot-re",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 657,
     "timeMonth": 701,
     "timeYear": 719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-05": 0
+    }
   }
 ]
