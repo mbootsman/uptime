@@ -6,21 +6,20 @@
     "slug": "toot-re",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 702,
-    "timeDay": 7347,
-    "timeWeek": 2604,
-    "timeMonth": 1208,
+    "time": 701,
+    "timeDay": 493,
+    "timeWeek": 2612,
+    "timeMonth": 1204,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2025-07-05": 21,
       "2025-05-26": 73,
       "2024-12-13": 18,
-      "2024-10-08": 17,
-      "2024-07-07": 54
+      "2024-10-08": 17
     }
   }
 ]
